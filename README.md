@@ -1,8 +1,8 @@
 ### Opa! Eu sou o Jonathan, programador iniciante em Javascript!
 
 - ✨ Vulgo Red
-- 🔭 Visando trabalhar com Python
-- 🌱 Estudando Javascript
+- 🔭 Visando se tornar um dev Full-Stack
+- 🌱 Estudando Javascript, HTML5 e CSS3
 - 😄 Pronomes: ele/dele
 
 <div>
