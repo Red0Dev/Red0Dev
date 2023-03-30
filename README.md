@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/Red0Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Red0Dev&show_icons=true&theme=aura_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red0Dev&layout=compact&theme=aura_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Red0Dev&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red0Dev&layout=compact&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
   <img align="center" alt="Red-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Red-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Red-pic" height="150" style="border-radius:50px;" 
- src="https://media.discordapp.net/attachments/810557060198563910/1091000768645058580/download20230304110407.png?width=466&height=466">
+ src="https://media.discordapp.net/attachments/810557060198563910/1072640932295487528/Helltaker_Icon.png?width=204&height=204">
 </div>
 
 ##
