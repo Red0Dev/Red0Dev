@@ -17,7 +17,7 @@
   <img align="center" alt="Red-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Red-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Red-pic" height="150" style="border-radius:50px;" 
- src="https://cdn.discordapp.com/attachments/810557060198563910/1072640932295487528/Helltaker_Icon.png">
+ src="https://media.discordapp.net/attachments/810557060198563910/1091000768645058580/download20230304110407.png?width=466&height=466">
 </div>
 
 ##
