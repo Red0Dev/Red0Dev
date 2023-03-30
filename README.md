@@ -3,7 +3,6 @@
 - ✨ AKA Red
 - 🔭 Dev Front-End
 - 🌱 Javascript, HTML5 e CSS3
-- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/Red0Dev">
