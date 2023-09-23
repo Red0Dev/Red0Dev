@@ -2,7 +2,7 @@
 
 - ✨ AKA Red
 - 🔭 Dev Front-End
-- 🌱 Javascript, HTML5 e CSS3
+- 🌱 Javascript | HTML5 | CSS3 / React
 
 <div>
   <a href="https://github.com/Red0Dev">
@@ -14,6 +14,7 @@
   <img align="center" alt="Red-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Red-Ts" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Red-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Red-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="Red-pic" height="150" style="border-radius:50px;" 
  src="https://media.discordapp.net/attachments/810557060198563910/1072640932295487528/Helltaker_Icon.png?width=204&height=204">
 </div>
